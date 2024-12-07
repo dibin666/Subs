@@ -6,11 +6,13 @@
 新增 OP/ED 歌词\
 预告无字幕\
 修复B站硬字幕部分翻译错误
+<details>
+<summary>字幕预览</summary>
 
-#### 预览
 OP
 ![OP](https://img100.pixhost.to/images/658/539905348_snipaste_2024-12-07_16-44-47.png)
 正文
 ![正文](https://img100.pixhost.to/images/658/539905545_snipaste_2024-12-07_16-45-00.png)
 ED
 ![ED](https://img100.pixhost.to/images/658/539905728_snipaste_2024-12-07_16-45-50.png)
+</details>
